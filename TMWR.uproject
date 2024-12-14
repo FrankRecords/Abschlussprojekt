@@ -78,6 +78,10 @@
 		{
 			"Name": "GaeaUnrealTools",
 			"Enabled": false
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true
 		}
 	]
 }
