@@ -82,6 +82,10 @@
 		{
 			"Name": "VictoryBPLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	]
 }
