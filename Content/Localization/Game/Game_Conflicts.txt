@@ -1,8 +1,8 @@
- - 5A5CF05448913013EE8618858F45ED35 
-	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS4/Xelu/CommonInput_Gamepad_PS4.Default__CommonInput_Gamepad_PS4_C.GamepadDisplayName - "DualShock 4" 
-	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS4/Lyra/Lyra_CommonInput_Gamepad_PS4.Default__Lyra_CommonInput_Gamepad_PS4_C.GamepadDisplayName - "Dual Shock 4" 
-
  - 55D75EF44A8A39AEA7701EA8FEABB88A 
 	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS5/Xelu/CommonInput_Gamepad_PS5.Default__CommonInput_Gamepad_PS5_C.GamepadDisplayName - "DualSense" 
 	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS5/Lyra/Lyra_CommonInput_Gamepad_PS5.Default__Lyra_CommonInput_Gamepad_PS5_C.GamepadDisplayName - "Dual Sense" 
+
+ - 5A5CF05448913013EE8618858F45ED35 
+	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS4/Xelu/CommonInput_Gamepad_PS4.Default__CommonInput_Gamepad_PS4_C.GamepadDisplayName - "DualShock 4" 
+	/Game/CommonUI/Foundation/Data/Plateforms_Inputs/GamepadPS4/Lyra/Lyra_CommonInput_Gamepad_PS4.Default__Lyra_CommonInput_Gamepad_PS4_C.GamepadDisplayName - "Dual Shock 4" 
 
